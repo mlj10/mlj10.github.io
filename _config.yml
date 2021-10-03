@@ -1,3 +1,7 @@
 name : web programming
 markdown : kramdown
 permalink : /blog/:year/:month/:day/:title
+plugins :
+  - jekyll-feed
+title : RSS feed Blog
+description: This is a RSS feed for a blog
